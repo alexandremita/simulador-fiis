@@ -57,4 +57,17 @@ Este projeto foi desenvolvido com a orientação do professor **Felipão da Dio*
 
 - `Simulador_FIIs.xlsx` – Arquivo principal do projeto.
 
+- ## 📸 Capturas de Tela
+
+Abaixo estão exemplos visuais da planilha de simulação de Fundos Imobiliários:
+
+### 📄 Visão Geral da Planilha
+
+![Visão Geral da Planilha](Simulador%20de%20FIIs_projeto%20Dio%20.png)
+
+### 📊 Gráfico de Evolução dos Investimentos
+
+![Gráfico de Dividendos](Simulador%20de%20FIIs_projeto%20Dio%20Gráfico.png)
+
+
 ---
